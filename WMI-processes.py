@@ -1,3 +1,4 @@
+# pyhton code to display Windows task-manager processes, startup programs and, users accounts.
 import wmi
 import subprocess
 
